@@ -13,6 +13,10 @@ Neste repositório serão colocados todos os exercícios realizados durante o cu
 6. Áudio e vídeo em HTML
 7. Técnicas de inserção de estilo css
 
+### Módulo 2:
+1. Psicologia das cores
+2. Representação de cores em CSS
+
 Aprendi também a usar o software **GIMP** para editar imagens de forma gratuita e o software **Handbrake** para conversão e compressão de vídeos. Se quiser conhecê-los, segue o link:
 - **GIMP:** https://www.gimp.org/
 - **Handbrake:**  https://handbrake.fr/
